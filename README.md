@@ -73,10 +73,12 @@ plot_topic_coherence(bertopic_model, lda_model)
 
 ## Project Structure
 ```
-|-- podcast/                # Please Create this Folder and Download the Sample Dataset files from Hugging Face Library: https://huggingface.co/datasets/blitt/SPoRC/tree/main
+|-- podcast/                # Please Create this Folder and Download the Sample Dataset 
 |-- SPoRC_Analysis/           # Jupyter notebooks for exploration   
 |-- README.md            # Project overview
 ```
+
+**Sample DataSet**: Please download from this link: Hugging Face Library: https://huggingface.co/datasets/blitt/SPoRC/tree/main
 
 ## Future Work
 - Explore additional transformer-based models (e.g., RoBERTa, BERT).
